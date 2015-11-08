@@ -1,3 +1,5 @@
+// MySSE.cpp
+
 /*
 The idea of this program is to try out a basic SSE example.
 
