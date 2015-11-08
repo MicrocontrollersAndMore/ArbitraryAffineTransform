@@ -10,7 +10,7 @@ squareRoots[2] == sqrt(2) == 1.41421
 squareRoots[4] == sqrt(4) == 2
 . . .
 squareRoots[9] == sqrt(9) == 3
-
+. . .
 squareRoots[16] == sqrt(16) == 4
 . . .
 etc.
